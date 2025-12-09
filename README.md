@@ -1,4 +1,4 @@
-# Fashion MNIST Classification Project 🧥👟
+# Fashion MNIST Classification Project 
 
 ## Project Overview
 This project focuses on building predictive models to classify images of clothing articles using the Fashion MNIST dataset (60,000 images). Developed as part of the "Laboratorio de Datos" course at Universidad de Buenos Aires (UBA).
